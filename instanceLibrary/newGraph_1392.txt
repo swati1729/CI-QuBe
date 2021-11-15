@@ -1,0 +1,46 @@
+#Connected barabasi albert graph graph new nodes with m edges being preferentially attached to already existsing nodes with high degree
+#See: https://networkx.org/documentation/stable/reference/generated/networkx.generators.random_graphs.barabasi_albert_graph.html
+#m=3
+#Edge Weights: Uniform from {1,2,...,9,10}
+# These are the instances of up to 19 nodes that were used in our paper "Bridging  classical and quantum with SDP initialized warm-starts for QAOA" [3]. The precise details for how these instances were constructed can be found in [3].
+# [3]  Reuben Tate, Majid Farhadi, Creston Herold, Greg Mohler,and  Swati  Gupta,  “Bridging  classical and quantum with SDP initialized warm-starts for QAOA,” arXiv preprint arXiv:2010.14021  (2020).
+16 39
+1 4 10
+2 4 2
+2 5 9
+3 4 2
+3 5 6
+3 6 5
+3 7 3
+3 9 8
+3 11 2
+3 15 5
+4 5 10
+4 6 4
+4 8 10
+4 9 1
+4 10 7
+4 11 6
+5 6 4
+5 7 6
+5 8 6
+5 15 3
+5 16 8
+6 7 9
+6 8 6
+6 9 4
+6 10 10
+6 11 10
+6 13 3
+6 16 9
+7 10 10
+8 13 1
+9 12 5
+9 13 3
+9 14 3
+9 15 4
+10 12 8
+11 12 3
+11 14 9
+12 14 3
+13 16 1

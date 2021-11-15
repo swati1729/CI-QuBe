@@ -1,0 +1,30 @@
+#Connected Erdos-Renyi graph with p chosen uniformly from [0,1]
+#p=0.23947025149382573
+#Edge Weights: Uniform from {1,2,...,9,10}
+# These are the instances of up to 19 nodes that were used in our paper "Bridging  classical and quantum with SDP initialized warm-starts for QAOA" [3]. The precise details for how these instances were constructed can be found in [3].
+# [3]  Reuben Tate, Majid Farhadi, Creston Herold, Greg Mohler,and  Swati  Gupta,  “Bridging  classical and quantum with SDP initialized warm-starts for QAOA,” arXiv preprint arXiv:2010.14021  (2020).
+15 24
+1 5 8
+1 7 1
+1 8 3
+1 11 8
+2 5 8
+2 8 10
+2 9 10
+2 13 3
+2 15 10
+3 14 7
+3 15 3
+4 10 2
+4 13 1
+5 7 1
+5 9 9
+5 10 7
+6 8 9
+6 11 6
+7 13 2
+11 12 1
+11 15 5
+12 14 3
+12 15 10
+14 15 8

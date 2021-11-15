@@ -1,0 +1,35 @@
+#Connected dual barabasi albert graph graph new nodes with m1 edges or m2 edges (with probability p and 1-p resp.) being preferentially attached to already existsing nodes with high degree
+#See: https://networkx.org/documentation/stable/reference/generated/networkx.generators.random_graphs.dual_barabasi_albert_graph.html
+#m1=2
+#m2=3
+#p=0.25
+#Edge Weights: For positive integers k, we have an edge weight of +2^k with probability 2^(-k-1) and an edge weight of -2^k with probability 2^(-k-1)
+# These are the instances of up to 19 nodes that were used in our paper "Bridging  classical and quantum with SDP initialized warm-starts for QAOA" [3]. The precise details for how these instances were constructed can be found in [3].
+# [3]  Reuben Tate, Majid Farhadi, Creston Herold, Greg Mohler,and  Swati  Gupta,  “Bridging  classical and quantum with SDP initialized warm-starts for QAOA,” arXiv preprint arXiv:2010.14021  (2020).
+12 26
+1 4 2
+1 5 -1
+1 9 -2
+2 4 -4
+2 12 2
+3 5 -8
+3 6 -2
+3 7 2
+4 5 1
+4 6 2
+4 7 4
+4 8 1
+4 11 -4
+5 6 -2
+5 7 -4
+5 8 -32
+5 10 -32
+5 11 4
+5 12 -1
+6 8 -1
+6 10 1
+6 11 2
+7 9 2
+7 12 8
+8 9 1
+9 10 32

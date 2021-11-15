@@ -1,0 +1,52 @@
+#Connected random regular graph with degree chosen uniformly from valid degrees
+#Uses algorithm from Kim and Vu. See: https://networkx.org/documentation/stable/reference/generated/networkx.generators.random_graphs.random_regular_graph.html
+#d=5
+#Edge Weights: Uniform from {-10,-9,...,9,10}\{0}
+# These are the instances of up to 19 nodes that were used in our paper "Bridging  classical and quantum with SDP initialized warm-starts for QAOA" [3]. The precise details for how these instances were constructed can be found in [3].
+# [3]  Reuben Tate, Majid Farhadi, Creston Herold, Greg Mohler,and  Swati  Gupta,  “Bridging  classical and quantum with SDP initialized warm-starts for QAOA,” arXiv preprint arXiv:2010.14021  (2020).
+18 45
+12 17 4
+12 11 9
+12 8 8
+12 10 6
+12 5 8
+17 2 -4
+17 4 -5
+17 7 1
+17 6 7
+7 10 8
+7 6 -2
+7 9 6
+7 14 5
+10 3 -2
+10 18 -8
+10 2 -5
+2 4 -10
+2 5 -10
+2 9 8
+4 11 -4
+4 3 -1
+4 13 5
+11 16 -8
+11 1 -2
+11 15 -7
+9 14 4
+9 16 -1
+9 13 2
+14 6 -2
+14 3 -5
+14 15 -8
+8 13 -7
+8 1 2
+8 15 -2
+8 6 3
+13 5 5
+13 18 -2
+6 18 5
+1 15 9
+1 16 2
+1 18 10
+15 5 -7
+16 18 -1
+16 3 8
+5 3 -10

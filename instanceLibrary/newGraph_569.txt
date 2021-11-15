@@ -1,0 +1,11 @@
+#One instance amongst all connected non-isomorphic graphs on < 7 vertices generated
+#Edge Weights: Uniform from {-10,-9,...,9,10}\{0}
+# These are the instances of up to 19 nodes that were used in our paper "Bridging  classical and quantum with SDP initialized warm-starts for QAOA" [3]. The precise details for how these instances were constructed can be found in [3].
+# [3]  Reuben Tate, Majid Farhadi, Creston Herold, Greg Mohler,and  Swati  Gupta,  “Bridging  classical and quantum with SDP initialized warm-starts for QAOA,” arXiv preprint arXiv:2010.14021  (2020).
+6 6
+1 4 -5
+1 5 6
+1 6 1
+2 5 -8
+3 6 9
+5 6 -9
