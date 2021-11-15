@@ -1,0 +1,38 @@
+#Connected Erdos-Renyi graph with p chosen uniformly from [0,1]
+#p=0.25244912996136837
+#Edge Weights: For positive integers k, we have an edge weight of +2^k with probability 2^(-k-1) and an edge weight of -2^k with probability 2^(-k-1)
+# These are the instances of up to 19 nodes that were used in our paper "Bridging  classical and quantum with SDP initialized warm-starts for QAOA" [3]. The precise details for how these instances were constructed can be found in [3].
+# [3]  Reuben Tate, Majid Farhadi, Creston Herold, Greg Mohler,and  Swati  Gupta,  “Bridging  classical and quantum with SDP initialized warm-starts for QAOA,” arXiv preprint arXiv:2010.14021  (2020).
+17 32
+1 2 1
+1 5 -4
+1 6 -1
+1 8 2
+1 15 -1
+2 13 8
+3 7 1
+4 7 4
+4 11 -1
+4 12 4
+4 16 8
+5 8 1
+5 10 -1
+5 12 4
+5 15 -1
+6 10 -1
+6 14 1
+6 16 -2
+7 15 -1
+7 17 1
+8 10 4
+8 17 4
+9 12 -2
+9 14 4
+10 13 2
+10 14 8192
+10 15 -16
+11 13 1
+11 17 -1
+13 15 1
+14 15 -2
+16 17 -1

@@ -1,0 +1,30 @@
+#Connected Newman Watts Strogatz Graph where each node is connected to k nearest nodes. Probability of rewiring each edge is p.
+#See: https://networkx.org/documentation/stable/reference/generated/networkx.generators.random_graphs.newman_watts_strogatz_graph.html
+#k=2
+#p=0.7113034774553753
+#Edge Weights: Uniform from {-10,-9,...,9,10}\{0}
+# These are the instances of up to 19 nodes that were used in our paper "Bridging  classical and quantum with SDP initialized warm-starts for QAOA" [3]. The precise details for how these instances were constructed can be found in [3].
+# [3]  Reuben Tate, Majid Farhadi, Creston Herold, Greg Mohler,and  Swati  Gupta,  “Bridging  classical and quantum with SDP initialized warm-starts for QAOA,” arXiv preprint arXiv:2010.14021  (2020).
+17 22
+1 2 -2
+1 17 8
+1 16 -6
+2 3 -3
+3 4 3
+4 5 -8
+5 6 3
+6 7 2
+6 8 -5
+7 8 -1
+8 9 7
+8 10 5
+9 10 9
+10 11 2
+11 12 8
+12 13 -4
+12 16 4
+13 14 10
+13 15 -3
+14 15 -3
+15 16 -10
+16 17 -3
