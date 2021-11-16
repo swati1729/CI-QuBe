@@ -22,6 +22,8 @@ The instances are grouped into various folders which we describe below:
 
 -instanceLibrary: These are the instances of up to 19 nodes that were used in our paper "Bridging  classical and quantum with SDP initialized warm-starts for QAOA" [3]. Instead of just using Erdös-Renyí graphs for example (which have predictable properties with respect to Max-Cut), we used a large variety of graphs coming from a variety of random graph models (e.g. Erdös-Renyí, Barabasi Albert, Dual of Barabasi-Albert, Watts-Strogatz, Newman-Watts-Strogatz, and random regular graphs). These models were used to generate unit-weight graphs, after which, for each unit-weight graph, we create an additional 3 weighted graphs by applying different edge-weight distributions, some of which allowing for both positive and negative edge weights. The precise details for how these instances were constructed can be found in [3].
 
+ACKNOWLEDGEMENT
+This  material  is  based  upon  work  supported  by the  Defense  Advanced  Research  Projects  Agency (DARPA)  under  Contract  No.HR001120C0046.
 
 
 References:
