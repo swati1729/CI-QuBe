@@ -1,12 +1,12 @@
-Combinatorial Instances for Quantum Algorithm Benchmarking (CIQuAB) is a library of interesting instances to test and benchmark quantum algorithms for combinatorial problems.
+Combinatorial Instances for Quantum Benchmarking (CI-QuBe, 'see-cube') is a library of interesting instances to test and benchmark quantum algorithms for combinatorial problems.
 
 Those wishing to cite the repository may use the following BibTex entry:
-@article{CIQuAB2021,
-title={CIQuAB},
-author={Reuben Tate and Majid Farhadi and Bryan Gard and Creston Herold and Greg Mohler and Swati Gupta},
+@article{CI-QuBe2021,
+title={CI-QuBe},
+author={Reuben Tate and Swati Gupta},
 journal={GitHub repository},
 publisher={GitHub},
-howpublished={\url{https://github.com/swati1729/CIQuAB}}
+howpublished={\url{https://github.com/swati1729/CI-QuBe}}
 year={2021}
 }
 
@@ -29,4 +29,5 @@ This  material  is  based  upon  work  supported  by the  Defense  Advanced  Res
 References:
 [1] Howard Karloff,   “How   good   is   the   Goemans–Williamson MAX-CUT algorithm?” SIAM Journalon Computing 29, 336–350 (1999).
 [2] Iain Dunning, Swati Gupta, and John Silberholz. 2018. What works best when? A systematic evaluation of heuristics for Max-Cut and QUBO. INFORMS Journal on Computing 30, 3 (2018), 608–624.
-[3]  Reuben Tate, Majid Farhadi, Creston Herold, Greg Mohler,and  Swati  Gupta,  “Bridging  classical and quantum with SDP initialized warm-starts for QAOA,” arXiv preprint arXiv:2010.14021  (2020).
+[3] Reuben Tate, Majid Farhadi, Creston Herold, Greg Mohler,and  Swati  Gupta,  “Bridging  classical and quantum with SDP initialized warm-starts for QAOA,” arXiv preprint arXiv:2010.14021  (2020).
+[4] current warmest paper, working paper (2021). 
