@@ -29,5 +29,5 @@ This  material  is  based  upon  work  supported  by the  Defense  Advanced  Res
 References:
 [1] Howard Karloff,   “How   good   is   the   Goemans–Williamson MAX-CUT algorithm?” SIAM Journalon Computing 29, 336–350 (1999).
 [2] Iain Dunning, Swati Gupta, and John Silberholz. 2018. What works best when? A systematic evaluation of heuristics for Max-Cut and QUBO. INFORMS Journal on Computing 30, 3 (2018), 608–624.
-[3] Reuben Tate, Majid Farhadi, Creston Herold, Greg Mohler,and  Swati  Gupta,  “Bridging  classical and quantum with SDP initialized warm-starts for QAOA,” arXiv preprint arXiv:2010.14021  (2020).
-[4] current warmest paper, working paper (2021). 
+[3] Reuben Tate, Majid Farhadi, Creston Herold, Greg Mohler, and  Swati  Gupta,  “Bridging  classical and quantum with SDP initialized warm-starts for QAOA,” arXiv preprint arXiv:2010.14021  (2020).
+[4] Reuben  Tate, Bryan  Gard, Greg  Mohler, and  Swati  Gupta, "Classically-inspired Mixers for QAOA beat Goemans-Williamson for Max-Cut at Low Circuit Depths", working paper (2021). 
